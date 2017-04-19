@@ -19,3 +19,7 @@ source bin/activate
 ```
 deactivate 
 ```
+5. if multiple verisons of Python co-exist,use as follow to specify which version
+```
+python virtualenv -p /usr/local/bin/python3.3 /your/path --verbose
+```
