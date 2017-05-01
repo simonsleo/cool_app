@@ -23,3 +23,13 @@ GPU:
 ```
 2000/2000 [==============================] - 5s - loss: 1.3866 - acc: 0.2495
 ```
+# run shell while logining every time
+creat a shell file named .bash_profile,write codes as follow 
+```
+#!/bin/sh
+export PATH=$PATH:/usr/local/cuda/bin
+```
+then
+```
+chmod +x ~/.bash_profile
+```
