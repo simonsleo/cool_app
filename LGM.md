@@ -28,6 +28,11 @@ creat a shell file named .bash_profile,write codes as follow
 ```
 #!/bin/sh
 export PATH=$PATH:/usr/local/cuda/bin
+
+#cuda ppc64le-linux library
+export LD_LIBRARY_PATH=/home/sliu/cuda/targets/ppc64le-linux/lib:$LD_LIBRARY_PATH
+export CPATH=/home/sliu/cuda/targets/ppc64le-linux/include:$CPATH
+export LIBRARY_PATH=/home/sliu/cuda/targets/ppc64le-linux/lib:$LIBRARY_PATH
 ```
 then
 ```
