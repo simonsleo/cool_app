@@ -38,6 +38,15 @@ then
 ```
 chmod +x ~/.bash_profile
 ```
+# activate virtual_envs created by conda
+```
+cd miniconda2/bin
+./conda info --envs
+source ./activate py2
+```
+the default path of   **activate**  is `/home/sliu/theano/miniconda2/lib/python2.7/site-packages/conda/cli/activate.py`,which
+actually doesn't consist of registered virtual enviroment,so specify the current path to **activate**.
+
 # run with multiple GPUs
 ```
 CUDA_VISIBLE_DEVICES=0 or 1 or 2 python xx.py
