@@ -40,5 +40,5 @@ chmod +x ~/.bash_profile
 ```
 # run with multiple GPUs
 ```
-CUDA_UISVISIBLE_DEVICES=0 or 1 or 2 python xx.py
+CUDA_VISIBLE_DEVICES=0 or 1 or 2 python xx.py
 ```
