@@ -50,3 +50,13 @@ set the default path of   **activate**  to be `~/miniconda2/bin`via `export PATH
 ```
 CUDA_VISIBLE_DEVICES=0 or 1 or 2 python xx.py
 ```
+
+# keep processes still running while exit ssh
+
+You could do that by using `screen`. Type` man screen` to find out more or read this screen man page.
+
+Simple scenario:
+
+1. ssh into your remote box. Type `screen` Then start the process you want.
+2. Press Ctrl-A then Ctrl-D. This will "detach" your screen session but leave your processes running. You can now log out of the remote box.
+3. If you want to come back later, log on again and type` screen -r` This will "resume" your screen session, and you can see the output of your process.
