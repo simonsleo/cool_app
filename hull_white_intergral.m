@@ -15,5 +15,5 @@ q_model =zeros(size(t));
 for i=1:length(t)
 tt=t(i)
 q_mrkt(i)  = exp(1.0-exp(a*tt))
-q_model(i) = exp(r_0*(exp(lambda*tt-1.0))/lambda-lambda*integral(@(x)fun(x,a,lambda,k),0,tt))
+q_model(i) = exp(r_0*(exp(-lambda*tt)-1.0)/lambda-lambda*integral(@(x)fun(x,a,lambda,k),0,tt))
 end
