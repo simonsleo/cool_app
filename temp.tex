@@ -1,0 +1,13 @@
+Because of $X_t = S_t^3$,we have
+$$ \frac{\partial X}{\partial t}=0, \hspace{0.5cm}
+\frac{\partial X}{\partial S}=3S_t^2, \hspace{0.5cm}
+\frac{\partial^2 X}{\partial S^2}=6S_t $$
+
+By applying It\^{o} lemma,we have
+\begin{equation}
+  \begin{aligned}
+  dX_t &= (\mu S_t \times 3S_t^2+\frac{1}{2} \times 6S_t  \times \sigma^2 S_t^2)dt+3S_t^2\sigma S_tdW_t \\
+       &= (3\mu + 3\sigma^2)S_t^3dt + 3\sigma S_t^3dW_t \\
+       &\overset{\mathrm{X_t=S_t^3}}{=}3(\mu^2+\sigma^2)X_tdt +3\sigma X_t dW_t
+  \end{aligned}
+\end{equation}
