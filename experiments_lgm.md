@@ -12,4 +12,6 @@ It proves that frequency play less role but filter size domains when dealing wit
 Error rate can decrease to 0.28,campared to 0.449(UCR time series classification,arxiv 1611.06455v4)
 
 # StarLightCurves
-Error rate stays at about 0.15,campared to 0.021(UCR time series classification,arxiv 1611.06455v4))
+Error rate stays at about 0.15,campared to 0.021(UCR time series classification,arxiv 1611.06455v4)).
+When the number of epochs is increased to 1500,the error rate drops to 0.08.
+
