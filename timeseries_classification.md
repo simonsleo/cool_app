@@ -7,6 +7,9 @@ https://physionet.org/physiobank/database/chfdb/
 3.PAMAP2 Physical Activity Monitoring Data Set,multivariate timeseries
 https://archive.ics.uci.edu/ml/datasets/PAMAP2+Physical+Activity+Monitoring
 
+4.Timeseries dataset for machine learning
+https://archive.ics.uci.edu/ml/datasets.html?format=&task=cla&att=&area=&numAtt=&numIns=&type=ts&sort=nameUp&view=table
+
 ## forcatsting dataset
 3. Neural networks for algorithmic trading. Simple time series forecasting.
 https://medium.com/@alexrachnog/neural-networks-for-algorithmic-trading-part-one-simple-time-series-forecasting-f992daa1045a
