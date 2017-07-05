@@ -10,6 +10,9 @@ https://archive.ics.uci.edu/ml/datasets/PAMAP2+Physical+Activity+Monitoring
 4.Timeseries dataset for machine learning
 https://archive.ics.uci.edu/ml/datasets.html?format=&task=cla&att=&area=&numAtt=&numIns=&type=ts&sort=nameUp&view=table
 
+5.Personalization on Smartphone-Based Activity Recognition
+http://www.cis.fordham.edu/wisdm/dataset.php
+
 ## forcatsting dataset
 3. Neural networks for algorithmic trading. Simple time series forecasting.
 https://medium.com/@alexrachnog/neural-networks-for-algorithmic-trading-part-one-simple-time-series-forecasting-f992daa1045a
