@@ -60,3 +60,8 @@ Simple scenario:
 1. ssh into your remote box. Type `screen` Then start the process you want.
 2. Press Ctrl-A then Ctrl-D. This will "detach" your screen session but leave your processes running. You can now log out of the remote box.
 3. If you want to come back later, log on again and type` screen -r` This will "resume" your screen session, and you can see the output of your process.
+
+# nohup
+1. `nohup xxx.sh &`
+2. check out what is running in background by typing `jobs`,
+3. kill the process by CTRZ+z after `fg`,pullling the process in the front groud
