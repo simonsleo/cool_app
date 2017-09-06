@@ -16,3 +16,6 @@ Getting rid of pooling. Many people dislike the pooling operation and think that
 
 Not same images generated on windows and linux.
 
+
+& HilbertCurve & D4L0 & D3L2 & D1L4 & D0L30 & Z-type & HilbertCurve & D4L0 & D3L2 & D1L4 & D0L30 & Z-type & HilbertCurve & D4L0 & D3L2 & D1L4 & D0L30 & Z-type & HilbertCurve & D4L0 & D3L2 & D1L4 & D0L30 & Z-type \\
+&( 100.00 , 0.00 ) &(!?,!?) &(!?,!?) &(!?,!?) &(!?,!?) &( 100.00 , 0.00 ) &( 100.00 , 0.00 ) &( 100.00 , 0.00 ) &( 100.00 , 0.00 ) &( 100.00 , 0.00 ) &( 100.00 , 0.00 ) &( 100.00 , 0.00 ) &( 95.81 , 3.10 ) &( 94.12 , 4.84 ) &( 90.68 , 9.91 ) &( 86.88 , 9.32 ) &( 93.83 , 10.71 ) &( 100.00 , 0.00 ) &( 70.47 , 6.48 ) &( 60.95 , 12.46 ) &( 62.78 , 12.07 ) &( 53.25 , 8.54 ) &( 33.79 , 9.01 ) &( 99.72 , 0.74 ) \\
