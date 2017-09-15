@@ -16,7 +16,8 @@ Getting rid of pooling. Many people dislike the pooling operation and think that
 
 Not same images generated on windows and linux.
 
-4. 
+4. This function can draw a chart showing the convergence history of accruacy and loss.
+http://parneetk.github.io/blog/neural-networks-in-keras/
 ```
 def plot_model_history(model_history):
     fig, axs = plt.subplots(1,2,figsize=(15,5))
