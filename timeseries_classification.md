@@ -22,6 +22,10 @@ https://medium.com/@alexrachnog/neural-networks-for-algorithmic-trading-part-one
 2. This paper has been cited 51 times. 
 https://pdfs.semanticscholar.org/b94c/cb595375bf57617575454b418fc6371b1d7c.pdf
 
+## Multiscale CNN for time series
+http://www.cse.wustl.edu/~z.cui/projects/mcnn/
+Multi-Scale Convolutional Neural Network for Time Series Classification (MCNN)
+
 
 ## repeat UCR
 FCN : StarLightCurves 0.054
