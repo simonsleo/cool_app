@@ -23,6 +23,10 @@ https://medium.com/@alexrachnog/neural-networks-for-algorithmic-trading-part-one
 https://pdfs.semanticscholar.org/b94c/cb595375bf57617575454b418fc6371b1d7c.pdf
 
 
+## repeat UCR
+FCN : StarLightCurves 0.043
+
+
 ## UCR time series classification 
 |                                |       |        |       |       |         |          |         |       |       |
 |--------------------------------|-------|--------|-------|-------|---------|----------|---------|-------|-------| 
