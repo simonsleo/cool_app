@@ -26,6 +26,9 @@ https://pdfs.semanticscholar.org/b94c/cb595375bf57617575454b418fc6371b1d7c.pdf
 http://www.cse.wustl.edu/~z.cui/projects/mcnn/
 Multi-Scale Convolutional Neural Network for Time Series Classification (MCNN)
 
+## Data augmentation
+Data augmentation can act as a regularizer in preventing overfitting in neural networks and improve performance in imbalanced class problems.
+https://arxiv.org/pdf/1609.08764.pdf
 
 ## repeat UCR
 FCN : StarLightCurves 0.054
