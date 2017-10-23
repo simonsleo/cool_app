@@ -35,6 +35,8 @@ FCN : StarLightCurves 0.054
 
 
 ## UCR time series classification 
+The testing (not training) classification error rate:
+
 |                                |       |        |       |       |         |          |         |       |       |
 |--------------------------------|-------|--------|-------|-------|---------|----------|---------|-------|-------| 
 |       | **MLP**                | **FCN**   | **ResNet** | **PROP**  | **COTE**  | **1NN-DTW** | **1NN-BOSS** | **BOSS-VS**| **Hilbert Ensemble**|
