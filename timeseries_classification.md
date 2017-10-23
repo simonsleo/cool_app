@@ -35,6 +35,8 @@ FCN : StarLightCurves 0.054
 
 
 ## UCR time series classification 
+Hilbert curves ensemble method is run at least 2 times with 4000 epochs.
+
 The testing (not training) classification error rate:
 
 |                                |       |        |       |       |         |          |         |       |       |
