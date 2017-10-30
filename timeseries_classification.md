@@ -59,7 +59,7 @@ The testing (not training) classification error rate:
 
 |                                |       |        |       |       |         |          |         |       |       |      |
 |--------------------------------|-------|--------|-------|-------|---------|----------|---------|-------|-------|-------| 
-|       | **MLP**                | **FCN**   | **ResNet** | **PROP**  | **COTE**  | **1NN-DTW** | **1NN-BOSS** | **BOSS-VS**| **Hilbert Ensemble**| **Ensemble+swish** |
+|       | **MLP**                | **FCN**   | **ResNet** | **PROP**  | **COTE**  | **1NN-DTW** | **1NN-BOSS** | **BOSS-VS**| **Hilbert Ensemble**| **Ensemble + swish** |
 | StarLightCurves                | 0.043 | 0.033  | 0.025 | 0.079 | 0.031   | 0.093    | 0.021   | 0.096 | 0.07   |
 | yoga                           | 0.145 | 0.155  | 0.142 | 0.121 | 0.113   | 0.164    | 0.081   | 0.169 |  0.16 |?|
 
