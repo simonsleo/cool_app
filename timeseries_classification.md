@@ -60,8 +60,9 @@ The testing (not training) classification error rate:
 |                                |       |        |       |       |         |          |         |       |       |      |
 |--------------------------------|-------|--------|-------|-------|---------|----------|---------|-------|-------|-------| 
 |       | **MLP**                | **FCN**   | **ResNet** | **PROP**  | **COTE**  | **1NN-DTW** | **1NN-BOSS** | **BOSS-VS**| **Hilbert Ensemble**| **Ensemble + swish** |
-| StarLightCurves                | 0.043 | 0.033  | 0.025 | 0.079 | 0.031   | 0.093    | 0.021   | 0.096 | 0.07   |
-| yoga                           | 0.145 | 0.155  | 0.142 | 0.121 | 0.113   | 0.164    | 0.081   | 0.169 |  0.16 |?|
+| StarLightCurves                | 0.043 | 0.033  | 0.025 | 0.079 | 0.031   | 0.093    | 0.021   | 0.096 | 0.07  |0.067 |
+| yoga                           | 0.145 | 0.155  | 0.142 | 0.121 | 0.113   | 0.164    | 0.081   | 0.169 |  0.16 |0.30|
+| Haptics                        | 0.539 | 0.449  | 0.494 | 0.584 | 0.481   | 0.623    | 0.536   | 0.584 | 0.278 |0.40|
 
 swish activation tests:
 1. /home/sliu/experiment_multi_curves/structured_test/wins/2_22_62_122_timelag/test_script_source 
