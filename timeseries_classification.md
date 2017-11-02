@@ -72,7 +72,7 @@ swish activation tests:
 # ------
 |                                |       |        |       |       |         |          |         |       |       |   |
 |--------------------------------|-------|--------|-------|-------|---------|----------|---------|-------|-------|-----|
-|   TS    | **MLP**                | **FCN**   | **ResNet** | **PROP**  | **COTE**  | **1NN-DTW** | **1NN-BOSS** | **BOSS-VS**| **Multiple Hilberts(MAX)**| **Multiple Hilberts(Averaged)** |  
+|   TS    | **MLP**                | **FCN**   | **ResNet** | **PROP**  | **COTE**  | **1NN-DTW** | **1NN-BOSS** | **BOSS-VS**| **Multiple Hilberts(MinLoss)**| **Multiple Hilberts(Averaged)** |  
 | Computers                      | 0.460 | 0.152  | 0.176 | 0.116 |         | 0.300    | 0.296   | 0.324 | **0.032** |**0.034**|
 | Haptics                        | 0.539 | 0.449  | 0.494 | 0.584 | 0.481   | 0.623    | 0.536   | 0.584 | **0.278** |**0.281**|
 | MALLAT                         | 0.064 | 0.02   | 0.021 | 0.050 | 0.036   | 0.066    | 0.058   | 0.064 | **0.018** |**0.018**|
