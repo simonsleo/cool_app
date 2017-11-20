@@ -91,7 +91,7 @@ MLHD-Averaged = Averaged value from ten times run
 | yoga                           | 0.145 | 0.155  | 0.142 | 0.121 | 0.113   | 0.164    | 0.081   | 0.169 |  0.181 |**0.183**|
 | Earthquakes                    | 0.208 | 0.199  | 0.214 | 0.281 | /       | 0.258    | 0.186   | 0.193 |  **0.051** |**0.042**|
 
-## corrected version
+## corrected version(Test Error based on minimal train error)
 |                                |       |        |       |       |         |          |         |       |       | 
 |--------------------------------|-------|--------|-------|-------|---------|----------|---------|-------|-------|
 |   TS    | **MLP**                | **FCN**   | **ResNet** | **PROP**  | **COTE**  | **1NN-DTW** | **1NN-BOSS** | **BOSS-VS**| **Multiple-Hilbert-Curves**| 
