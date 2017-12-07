@@ -1,4 +1,4 @@
-## repeat baseline of usr:
+## repeat baseline of usr(No dropuot):
 
 StarLightCurves : loss= 0.00949086927006, acc=0.958110733395 
 
